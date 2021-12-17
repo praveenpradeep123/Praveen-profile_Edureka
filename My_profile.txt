@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<h1>
+    <title>Praveen_Profile</title>
+    <section id="Back to top">
+    <center><b>Praveen Pradeep</center>
+    <center>********************************</b></center>
+    <style>
+    h1 {background-color: #ffff00; color: red; border: 10px solid black;} 
+    p {color: beige; font-style: italic; font-size: 20px; background-color: black;}
+    dl {background-color: chartreuse; color: black; border: 10px solid blue; width: 300px;}
+    table {color:rgb(59, 8, 245); width: 500px; border: 10px solid black; padding: 30px; margin: 2px; background-color: chartreuse;}
+    td {border: 3px solid black; width: 10px;}
+    th {border: 3px solid black;}
+    img {border: 7px dashed red; padding: 2px;} 
+    hr {outline-style: dashed; color:black;}
+    body {background-size: cover; background-image: url(https://i.pinimg.com/originals/0b/c0/27/0bc027406eb69e48ab3e28ef8f2827f8.png);
+        background-color: mediumspringgreen; color: white;}
+    button {border: 5px solid red; background-color: chartreuse; border-color:blue; padding: 12px 12px; border-radius: 12px; 
+        box-shadow:black; background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png);}
+    a {color: darkviolet; background-color: yellow;}
+    </style>
+    <center>
+        <a href="#Profile Pic & Links">Profile Pic & Links|</a>
+        <a href="#Profile Description">Profile Description|</a>
+        <a href="#Location and contacts">Location and contacts</a>
+    </center>
+    </section>
+</h1>
+<hr>
+<body>
+    <!--{Profile+Links}-->
+    <section id="Profile Pic & Links">
+    <center>
+        <h2>Profile Pic & Links</h2>
+        <video poster="C:\Users\prave\Desktop\ED_ Internship\thumbnail.jpg" controls >
+        <iframe width="60" height="30" src="https://www.youtube.com/embed/Q33KBiDriJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </video>
+        <br>
+        <b>Linkedin Link:</b>
+        <button type="button">
+            <a href="https://www.linkedin.com/in/praveen-pradeep-05a579192/" target="_blank"><b>My-linkedIn</b></a>
+        </button>
+        <br>
+        <b>Github Link:</b>
+        <button 1 type="button">
+            <a href="https://github.com/praveenpradeep123/Praveen-Files" target="blank"><b>My-Github</b></a>
+        </button 1>
+        <br>
+    <img src= "C:\Users\prave\Desktop\ED_ Internship\vasu.jpg" alt="Praveen Pic" width="20%" height="15%"/>
+    <br>
+    <!--This is {Links+Pic}-->
+    </section>
+    <hr>
+    <!--Profile Description-->
+    <section id="Profile Description">
+    </center>
+    <h3>Profile Description</h3>
+    <p><b>I am Praveen Pradeep, and I am currently working as a Business analyst. 
+        I am a student of the 2021 batch passout of PGDM in Information Technology from Xavier 
+        Institute of Social Service, Ranchi. Prior to this, I had done my B.tech in Electronics and 
+        Instrumentation from KIIT University. So, I have been a student of Science and Technology throughout 
+        my career as a result of which I have developed the following interests.
+    <p>
+    <dl> <b>&ccaps; My Skills and Strengths:</b>
+        <li>Microsoft PowerBI</li>
+        <li>My SQL</li>
+        <li>Microsoft Excel</li>
+        <li>Data Management</li>
+    </dl>
+    <table>
+        <thead>
+            <tr>
+                <th>S.no</th>
+                <th>Work Areas</th>
+                <th>Star rating</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>MS Excel</td>
+                <td>*****</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>MS Power BI</td>
+                <td>****</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>My SQL/Pl-SQL</td>
+                <td>****</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Python</td>
+                <td>***</td>
+            </tr>
+        </tbody>
+    </table>
+   </section>
+    </p>
+     <hr>
+    <footer>
+    <!--Location and contacts-->
+    <section id="Location and contacts">
+        <h3>Location and Contacts</h3>
+        <center>
+            <b>Find Me Right Here</b><br>
+            <b> &dArr; </b><br>
+            <<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3679.8532411251754!2d86.1869791140227!3d22.733695585100083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f5fd983dd105e5%3A0xc3329240686445ed!2sType-B%20flats!5e0!3m2!1sen!2sin!4v1637998039608!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <br>
+            <b><i> For contact: Please message me on: praveenp0797@gmail.com </b></i>
+            <h2> &copy; &hearts; Thank you  &dfisht; </h2>
+            <a href="#Back to top";>Back to top</a>
+        </center>
+    </section>
+    </footer>
+</body>
